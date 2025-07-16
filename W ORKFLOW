@@ -16,11 +16,11 @@ ai-energy-mas-thesis
 
 │                └── chapters/ # Optional .md/.tex for each chapter
 
-│ ├── chapter1_introduction.md
+│                    ├── chapter1_introduction.md
 
-│ ├── chapter2_litreview.md
+│                          ├── chapter2_litreview.md
 
-│ └── ...
+│                               └── ...
 
 ├── code/
 
