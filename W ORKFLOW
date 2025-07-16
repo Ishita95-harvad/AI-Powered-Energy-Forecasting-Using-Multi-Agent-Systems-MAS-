@@ -1,5 +1,37 @@
 WORKFLOW
 
+# ⚡ AI-Powered Energy Forecasting Using Multi-Agent Systems (MAS)
+
+This repository contains the full code, models, and documentation for our research project:  
+**“AI for Energy Efficiency in Smart Grids Using Multi-Agent Systems”** – designed for scalable renewable energy forecasting and optimization.
+
+---
+
+## 📌 Project Objectives
+
+- 📈 Short-term renewable energy forecasting using **LSTM** and **Prophet**
+- 🧠 Anomaly detection to identify grid disturbances
+- 🎯 Optimization using **Pyomo** for energy dispatch
+- 🕸️ Multi-Agent collaboration: Forecasting Agent, Anomaly Agent, Optimization Agent
+- 📊 Integration with Streamlit/Power BI dashboards
+
+---
+
+## 🧰 Tech Stack
+
+| Component        | Tools Used                         |
+|------------------|------------------------------------|
+| Forecasting      | LSTM, Prophet (Python)             |
+| Anomaly Detection| Statistical Z-score, IsolationForest|
+| Optimization     | Pyomo, Scipy                        |
+| Multi-Agent Sys. | Python classes + Async execution   |
+| Deployment       | Streamlit / Power BI + Flask API   |
+| Dataset          | CEA, MNRE, POSOCO, IMD, NREL India |
+
+---
+
+## 📂 Repository Structure
+
 ai-energy-mas-thesis
 
 ├── thesis/
