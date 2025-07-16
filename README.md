@@ -1,53 +1,23 @@
-# AI-Powered-Energy-Forecasting-Using-Multi-Agent-Systems-MAS-
+# AI-Powered Multi-Agent System for Renewable Energy Forecasting
 
-ai-energy-mas-thesis
+This repository contains the simulation code, forecasting models (LSTM, Prophet, ARIMA), and optimization workflow for an MAS-based Smart Grid architecture.
 
-├── **thesis/**
+## 🧠 Features
+- Hybrid forecasting using LSTM, ARIMA, Prophet
+- Decentralized multi-agent system with RL agents
+- GridLAB-D simulation and optimization using MILP and PPO
 
-│   ├── thesis.docx                 # Full dissertation
+## 📂 Structure
+- `/notebooks` – Training and evaluation notebooks
+- `/src` – Python modules for MAS agents and communication
+- `/data` – Sample weather and load datasets
+- `/simulation` – GridLAB-D files and PPO agent configs
 
-│   ├── thesis.pdf                  # Converted PDF
+## 🚀 Getting Started
+pip install -r requirements.txt
+python run_simulation.py
 
-│   ├── abstract.md                 # Short abstract
+## 📜 Citation
+If you use this code in your research, please cite the paper:
+> Bahamnia, I. (2025). "Hybrid Forecasting and MAS Optimization for Smart Grids", *Elsevier Energy and AI*.
 
-│   └── chapters/                   # Optional .md/.tex for each chapter
-
-│       ├── chapter1_introduction.md
-
-│       ├── chapter2_litreview.md
-
-│       └── ...
-
-├── **code/**
-
-│   ├── MAS_simulation_gridlabd.py
-
-│   ├── forecasting_lstm.ipynb
-
-│   ├── prophet_forecast.py
-
-│   └── optimization_model.py
-
-├── **data/**
-
-│   ├── load_data.csv
-
-│   ├── renewable_generation.csv
-
-│   └── simulation_results.json
-
-├── **dashboard/**
-
-│   ├── streamlit_app.py
-
-│   └── config.py
-
-├── **diagrams/**
-
-│   ├── system_architecture.png
-
-│   └── agent_workflow.png
-
-├── **README.md**
-
-└── **LICENSE**
