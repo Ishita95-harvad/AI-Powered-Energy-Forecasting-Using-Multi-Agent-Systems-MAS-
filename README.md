@@ -21,3 +21,9 @@ python run_simulation.py
 If you use this code in your research, please cite the paper:
 > Bahamnia, I. (2025). "Hybrid Forecasting and MAS Optimization for Smart Grids", *Elsevier Energy and AI*.
 
+
+## 🔗 Related Resources
+
+- 📜 [Research Paper (Preprint)](link_to_preprint.pdf)
+- 📊 [Live Streamlit Dashboard (if deployed)](link_here)
+- 📘 [Dataset DOI on Zenodo](https://doi.org/10.5281/zenodo.xxxxxx)
