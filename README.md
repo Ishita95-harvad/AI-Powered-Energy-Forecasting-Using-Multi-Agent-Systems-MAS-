@@ -1,5 +1,5 @@
 ### AI-Powered Multi-Agent System for Renewable Energy Forecasting
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12345678.svg)] 
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12345678.svg)
 
 **This repository contains the simulation code, forecasting models (LSTM, Prophet, ARIMA), and optimization workflow for an MAS-based Smart Grid architecture.**
 
