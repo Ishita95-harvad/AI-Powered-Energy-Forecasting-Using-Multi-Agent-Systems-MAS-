@@ -1,0 +1,18 @@
+📁 AI_Energy_MAS_Package/
+├── 📄 research_paper_final.pdf
+├── 📄 cover_letter.pdf
+├── 📄 plagiarism_report.pdf
+├── 📄 author_declaration_form.pdf
+├── 📁 code/                                # Same as GitHub repo
+│   ├── main.py
+│   ├── agents/
+│   ├── models/
+│   ├── data/
+│   ├── optimization/
+│   ├── requirements.txt
+│   └── README.md
+├── 📁 figures/
+│   ├── fig1_system_architecture.png
+│   └── fig2_forecasting_results.png
+├── 📄 zenodo_metadata.yaml
+└── 📄 LICENSE
