@@ -7,7 +7,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Ishita95-harvad/AI-Powered-Energy-Forecasting-Using-Multi-Agent-Systems-MAS-)
 ![License](https://img.shields.io/github/license/Ishita95-harvad/AI-Powered-Energy-Forecasting-Using-Multi-Agent-Systems-MAS-)
 ![Python](https://img.shields.io/badge/python-3.10-blue.svg)
-
+![Earth Engine](https://img.shields.io/badge/Data-Google%20Earth%20Engine-34A853?logo=google-earth)
 ![Google Cloud](https://img.shields.io/badge/Powered%20by-Google%20Cloud-blue?logo=google-cloud)
 ![TensorFlow](https://img.shields.io/badge/Built%20with-TensorFlow-FF6F00?logo=tensorflow)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ishita95-harvad/ai-smartgrid-mas/blob/main/notebooks/forecasting_lstm.ipynb)
