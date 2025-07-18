@@ -40,7 +40,7 @@ This project demonstrates an AI-powered Multi-Agent System (MAS) designed for re
 | `/figures` | Architecture diagrams |
 | `/docs` | Paper summary and presentation slides |
 
-## 📂Repository Structure
+## ✅ Final Folder Structure
 ```
 ai-smart-grid-mas/
 ├── README.md                  <- Overview, architecture, features
