@@ -39,8 +39,65 @@ This project demonstrates an AI-powered Multi-Agent System (MAS) designed for re
 | `/models` | Pretrained models (if any) |
 | `/figures` | Architecture diagrams |
 | `/docs` | Paper summary and presentation slides |
+```
+ai-smart-grid-mas/
+├── README.md                  <- Overview, architecture, features
+├── LICENSE                    <- MIT/Apache license
+├── .gitignore                 <- Ignore system and build files
+├── requirements.txt           <- Python dependencies
+├── environment.yml            <- Conda environment (optional)
+├── CITATION.cff               <- Citation metadata for GitHub/Zenodo
+├── setup.cfg                  <- linter/formatter settings
+├── .github/
+│   └── workflows/
+│       └── deploy_docs.yml    <- GitHub Actions to deploy docs
+├── notebooks/
+│   ├── forecasting_lstm.ipynb <- LSTM forecasting notebook
+│   ├── prophet_model.ipynb    <- Prophet-based forecasting
+│   ├── anomaly_isolation.ipynb<- Anomaly detection
+│   ├── optimization.ipynb     <- Pyomo optimization experiments
+│   └── dashboard_eda.ipynb    <- Data exploration for dashboard
+├── src/
+│   ├── __init__.py
+│   ├── agent.py               <- Agent definitions (forecast, anomaly, etc.)
+│   ├── optimization.py        <- Pyomo-based optimization
+│   ├── rl_agent.py            <- Smart agent using DQN/Policy Gradient
+│   ├── communication.py       <- Inter-agent messaging logic
+│   └── utils.py               <- Shared utilities
+├── data/
+│   ├── raw/                   <- Raw data files
+│   ├── processed/             <- Cleaned datasets
+│   └── metadata.json          <- Description of datasets
+├── models/
+│   ├── lstm_model.pt          <- Trained LSTM model
+│   ├── prophet_model.pkl      <- Prophet model dump
+│   └── rl_policy.h5           <- Reinforcement learning policy
+├── app/
+│   ├── app.py                 <- Streamlit dashboard UI
+│   ├── dashboard_utils.py     <- Plotting & logic
+│   └── assets/                <- Images/icons used in dashboard
+├── docs/
+│   ├── index.md               <- GitHub Pages landing page
+│   ├── architecture.md        <- System design, agent roles
+│   ├── simulation.md          <- Experimental setup and results
+│   ├── figures/
+│   │   ├── architecture.png
+│   │   ├── co2_savings_chart.png
+│   │   └── load_forecast_accuracy.png
+│   └── .nojekyll              <- Disable Jekyll for docs
+├── publication/
+│   ├── manuscript_IEEE.docx   <- Final formatted manuscript
+│   ├── abstract.txt
+│   ├── author_declaration.pdf
+│   ├── plagiarism_report.pdf
+│   └── cover_letter.txt
+└── deploy/
+    ├── Dockerfile             <- Optional containerized deployment
+    ├── azure_functions/       <- Azure API deployable functions
+    ├── streamlit_share/       <- Streamlit app deploy folder
+    └── zenodo.json            <- Metadata for Zenodo DOI
 
-
+````
 ## 📜Citation
 
 If you use this code in your research, please cite the paper:
