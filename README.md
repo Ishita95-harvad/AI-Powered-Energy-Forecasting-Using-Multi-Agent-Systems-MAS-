@@ -112,13 +112,6 @@ If you use this code in your research, please cite the paper:
 - 📘 [Dataset DOI on Zenodo](https://doi.org/10.5281/zenodo.xxxxxx)
 
 
-## 🚀 How to Run(GitHub)
-
-```bash
-pip install -r requirements.txt
-python src/agent.py
-python run_simulation.py
-------
 
 
 
