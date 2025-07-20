@@ -1,1 +1,4 @@
-
+├── models/
+│   ├── lstm_model.pt          <- Trained LSTM model
+│   ├── prophet_model.pkl      <- Prophet model dump
+│   └── rl_policy.h5           <- Reinforcement learning policy
