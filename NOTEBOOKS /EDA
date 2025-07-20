@@ -1,0 +1,9 @@
+Forecasting (lstm, prophet)
+
+Anomaly Detection (isolation forest)
+
+Optimization (pyomo)
+
+EDA & Dashboard support
+
+✔ Suggestion: Add notebook titles, short introductions, and outputs (e.g., forecast plots, metrics) for clarity.
