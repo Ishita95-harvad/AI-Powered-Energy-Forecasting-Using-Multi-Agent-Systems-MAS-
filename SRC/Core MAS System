@@ -1,1 +1,6 @@
-
+├── __init__.py
+│   ├── agent.py               <- Agent definitions (forecast, anomaly, etc.)
+│   ├── optimization.py        <- Pyomo-based optimization
+│   ├── rl_agent.py            <- Smart agent using DQN/Policy Gradient
+│   ├── communication.py       <- Inter-agent messaging logic
+│   └── utils.py               <- Shared utilities
