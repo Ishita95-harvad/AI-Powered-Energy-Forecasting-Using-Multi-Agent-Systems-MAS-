@@ -1,1 +1,9 @@
-
+├── docs/
+│   ├── index.md               <- GitHub Pages landing page
+│   ├── architecture.md        <- System design, agent roles
+│   ├── simulation.md          <- Experimental setup and results
+│   ├── figures/
+│   │   ├── architecture.png
+│   │   ├── co2_savings_chart.png
+│   │   └── load_forecast_accuracy.png
+│   └── .nojekyll              <- Disable Jekyll for docs
