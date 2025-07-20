@@ -1,1 +1,4 @@
-
+├── app/
+│   ├── app.py                 <- Streamlit dashboard UI
+│   ├── dashboard_utils.py     <- Plotting & logic
+│   └── assets/                <- Images/icons used in dashboard
