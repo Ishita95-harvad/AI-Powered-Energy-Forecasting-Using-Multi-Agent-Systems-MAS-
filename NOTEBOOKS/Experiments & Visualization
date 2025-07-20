@@ -1,1 +1,5 @@
-
+├── forecasting_lstm.ipynb <- LSTM forecasting notebook
+│   ├── prophet_model.ipynb    <- Prophet-based forecasting
+│   ├── anomaly_isolation.ipynb<- Anomaly detection
+│   ├── optimization.ipynb     <- Pyomo optimization experiments
+│   └── dashboard_eda.ipynb    <- Data exploration for dashboard
