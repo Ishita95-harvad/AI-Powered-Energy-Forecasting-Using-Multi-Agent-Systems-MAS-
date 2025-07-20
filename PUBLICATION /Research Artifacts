@@ -1,1 +1,6 @@
-
+── publication/
+│   ├── manuscript_IEEE.docx   <- Final formatted manuscript
+│   ├── abstract.txt
+│   ├── author_declaration.pdf
+│   ├── plagiarism_report.pdf
+│   └── cover_letter.txt
