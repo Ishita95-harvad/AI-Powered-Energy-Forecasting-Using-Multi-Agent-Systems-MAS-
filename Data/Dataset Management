@@ -1,1 +1,4 @@
-
+├── data/
+│   ├── raw/                   <- Raw data files
+│   ├── processed/             <- Cleaned datasets
+│   └── metadata.json          <- Description of datasets
