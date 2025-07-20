@@ -1,1 +1,5 @@
-
+└── deploy/
+    ├── Dockerfile             <- Optional containerized deployment
+    ├── azure_functions/       <- Azure API deployable functions
+    ├── streamlit_share/       <- Streamlit app deploy folder
+    └── zenodo.json            <- Metadata for Zenodo DOI
