@@ -13,7 +13,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ishita95-harvad/ai-smartgrid-mas/blob/main/notebooks/forecasting_lstm.ipynb)
 
 
-
+![ertificate](https://github.com/Ishita95-harvad/-Simulation-Integration-ai-smart-grid-mas-/blob/main/figures/Screenshot%20(679).png)
 
 
 
