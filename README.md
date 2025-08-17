@@ -1,4 +1,4 @@
-## AI-Powered Multi-Agent System for Renewable Energy Forecasting
+### [AI Smart Grid: Multi-Agent System for Renewable Forecasting and Optimization](https://github.com/Ishita95-harvad/-Integration--ai-smart-grid-mas-)
 
 **This repository contains the simulation code, forecasting models (LSTM, Prophet, ARIMA), and optimization workflow for an MAS-based Smart Grid architecture.**
 
@@ -18,7 +18,7 @@
 
 
 
-### [AI Smart Grid: Multi-Agent System for Renewable Forecasting and Optimization](https://github.com/Ishita95-harvad/-Integration--ai-smart-grid-mas-)
+## AI-Powered Multi-Agent System for Renewable Energy Forecasting
 
 This project demonstrates an AI-powered Multi-Agent System (MAS) designed for real-time energy forecasting, grid optimization, and climate-resilient decision-making.
 
