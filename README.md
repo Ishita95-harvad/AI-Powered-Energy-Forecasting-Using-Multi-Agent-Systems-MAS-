@@ -101,10 +101,6 @@ ai-smart-grid-mas/
     └── zenodo.json            <- Metadata for Zenodo DOI
 
 ````
-## 📜Citation(IEEE)
-
-If you use this code in your research, please cite the paper:
-> Bahamnia, I. (2025). "Hybrid Forecasting and MAS Optimization for Smart Grids", *Elsevier Energy and AI*.
 
 ## 🔗 Related Resources
 
