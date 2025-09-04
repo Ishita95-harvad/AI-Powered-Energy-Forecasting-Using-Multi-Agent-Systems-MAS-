@@ -1,4 +1,4 @@
-## [AI Smart Grid: Multi-Agent System for Renewable Forecasting and Optimization](https://github.com/Ishita95-harvad/Merged--AI-Smart-Grid-Modules-into-MAS-Grid-LAB-D-Simulation/tree/main)
+## [AI Smart Grid: Multi-Agent System for Renewable Forecasting and Optimization](https://github.com/Ishita95-harvad/Merged--AI-Smart-Grid-Modules-into-MAS-Grid-LAB-D-Simulation/tree/main) PHAASE-I
 
 
 **This repository contains the simulation code, forecasting models (LSTM, Prophet, ARIMA), and optimization workflow for an MAS-based Smart Grid architecture.**
